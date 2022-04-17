@@ -4,23 +4,23 @@
 
 ; 2022-03 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 
-_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x64_5a580cee56603bc7e278f24bbc1e28fed7ab1f71.msu
+_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
 
 
 ; 2022-03 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 
-_8.1x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x86_beee60d763ec3b4d40f7dd395d6a574b20efc96e.msu
+_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
 
 
 
 ; 2022-03 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 
-_only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x64_878c623a64cec1be862f63c03f0a644e088949af.msu
+_only_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x64_3a6168057b11b31200c4ad9eb7cd268829e7e3be.msu
 
 
 ; 2022-03 适用于 Windows 8.1 基于 x86 系统的仅安全更新
 
-_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x86_344145efea500ddb5586f3d6c6accb54aad409c7.msu
+_only_8.1x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x86_28a97cb492766a5eb93b85c2d1b5d07875d7d223.msu
 
 
 
