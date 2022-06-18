@@ -26,12 +26,12 @@ _only_8.1x32=http://download.windowsupdate.com/d/msdownload/update/software/secu
 
 ; 2022-05 Windows 10 1809 基于 x64 系统的累计更新
 
-_1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
+_1809x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
 
 
 ; 2022-05 Windows 10 1809 基于 x86 系统的累计更新
 
-_1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
+_1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x86_22d2572f5e50f0d9402c81b3731e21469a2c98f9.msu
 
 
 
